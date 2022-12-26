@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dart1492
-- 👀 I hate emojis
+- 👀 I hate emojis btw.
 
 
 <!---

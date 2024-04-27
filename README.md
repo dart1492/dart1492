@@ -4,5 +4,4 @@
 
 ------------
 - Studying CS and Data Science at [FIT](http://fit.univ.kiev.ua/en).
-- Playing around with Svelte + Vite + Tailwind
 
